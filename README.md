@@ -18,6 +18,7 @@ This dashboard offers a comprehensive snapshot of property management data acros
 ## Detailed Analysis:
 ### 1. Revenue Breakdown:
 **Monthly Trends**: The dashboard tracks monthly revenue across the year, with significant growth in July ($6.1M). This trend helps businesses predict seasonal patterns and allocate resources accordingly.
+
 **Sales Channels**: Analysis reveals that Online sales contribute the most ($9.5M), followed by Broker sales ($8.9M) and Direct sales ($7.1M). This insight highlights the effectiveness of digital platforms in driving property sales.
 ### 2. Property Type Insights:
 **Revenue by Property Type**: The top-selling property types are Condos (29.41%) and Single-family homes (28.63%), making up a substantial share of the revenue. This can guide future investments in specific property types that yield the highest returns.
@@ -44,10 +45,10 @@ The dashboard presents an easy-to-understand visualization of expenses ($9M) and
 + **Data Sources**: Property sales records, financial data (revenue, expenses), and client demographic information.
 
 ## How to Use:
-Open the Power BI file and explore the various sections to view sales trends, client profiles, and revenue breakdowns.
-Use filters to drill down into specific property types, sales channels, or geographic regions.
-Analyze the performance by country and client contribution to tailor marketing strategies or adjust business operations.
-Review expense vs income to assess profitability and potential areas for cost-cutting.
++ Open the Power BI file and explore the various sections to view sales trends, client profiles, and revenue breakdowns.
++ Use filters to drill down into specific property types, sales channels, or geographic regions.
++ Analyze the performance by country and client contribution to tailor marketing strategies or adjust business operations.
++ Review expense vs income to assess profitability and potential areas for cost-cutting.
 
 ## Future Enhancements:
 + **Predictive Analytics**: Incorporate forecasting models to predict future revenue trends based on historical data.
