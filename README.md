@@ -27,6 +27,7 @@ Townhouses contribute the least to overall revenue at 14.90%, suggesting a poten
 **Country-wise Revenue**: The top revenue-generating countries are India ($5.1M), Mexico ($4.2M), and Brazil ($4.1M), indicating these regions are key markets for the business. Germany and Italy show relatively low revenue, which may indicate opportunities for market growth or additional marketing efforts in those regions.
 ### 4. Client Demographics:
 **Top Clients**: High-revenue clients like Emily Davis (Lawyer, $5.2M) and David Williams (Lawyer, $4.5M) dominate, indicating that professionals in law contribute significantly to overall sales. This highlights the importance of targeting high-net-worth individuals and professionals in future marketing strategies.
+
 **Occupation-wise Revenue**: The data shows that Lawyers, Programmers, and Engineers are the leading contributors. This insight can help tailor services and marketing campaigns to attract similar high-value clients.
 ### 5. Property Sales and Payment Status:
 The dashboard tracks the status of property transactions, showing both completed and pending payments. For example, Berlin has multiple pending payments, while Cape Town has mostly completed transactions. This insight can help improve follow-up strategies and manage cash flow better.
