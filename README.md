@@ -1,5 +1,7 @@
 # Property Management Dashboard
 
+[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOThjN2NjNDMtYjQ0ZS00YmJiLWJhZDMtZDUzMjRhNWFkNWUzIiwidCI6ImU5ODE4OTYxLTJkN2QtNGMwYS05ZGQ1LTI1MmRiYmM2ZWNkZiJ9)
+
 This Power BI dashboard provides in-depth insights into property management performance, allowing for detailed analysis of revenue, expenses, property sales, and client data. It is designed to help property managers, stakeholders, and business leaders make data-driven decisions to optimize operations and drive profitability.
 
 ## Overview:
